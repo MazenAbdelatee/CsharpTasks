@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\DEPI\\C#\\C# tasks\\C#\\CsharpDay03\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F75B938-39DD-4E9F-ABF7-A18E94759850}|CsharpDay03\\CsharpDay03.csproj|d:\\depi\\c#\\c# tasks\\c#\\csharpday03\\csharpday03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F75B938-39DD-4E9F-ABF7-A18E94759850}|CsharpDay03\\CsharpDay03.csproj|solutionrelative:csharpday03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{47CCFF6D-B209-B943-9F15-220BC36F1D66}|CsharpDay03\\CsharpDay03.csproj|d:\\depi\\c#\\c# tasks\\c#\\csharpday03\\csharpday03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47CCFF6D-B209-B943-9F15-220BC36F1D66}|CsharpDay03\\CsharpDay03.csproj|solutionrelative:csharpday03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F75B938-39DD-4E9F-ABF7-A18E94759850}|CsharpDay03\\CsharpDay03.csproj|d:\\depi\\c#\\c# tasks\\c#\\csharpday03\\csharpday03\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F75B938-39DD-4E9F-ABF7-A18E94759850}|CsharpDay03\\CsharpDay03.csproj|solutionrelative:csharpday03\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{47CCFF6D-B209-B943-9F15-220BC36F1D66}|CsharpDay03\\CsharpDay03.csproj|d:\\depi\\c#\\c# tasks\\c#\\csharpday03\\csharpday03\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47CCFF6D-B209-B943-9F15-220BC36F1D66}|CsharpDay03\\CsharpDay03.csproj|solutionrelative:csharpday03\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +30,7 @@
               "RelativeToolTip": "CsharpDay03\\Point.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T14:05:03.559Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T14:05:03.559Z"
             },
             {
               "$type": "Document",
@@ -41,7 +40,7 @@
               "RelativeDocumentMoniker": "CsharpDay03\\Program.cs",
               "ToolTip": "D:\\DEPI\\C#\\C# tasks\\C#\\CsharpDay03\\CsharpDay03\\Program.cs",
               "RelativeToolTip": "CsharpDay03\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAHwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-27T13:09:07.913Z",
               "EditorCaption": ""
