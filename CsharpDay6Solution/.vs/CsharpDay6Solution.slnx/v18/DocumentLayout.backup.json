@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DEPI\\C#\\C# tasks\\C#\\CsharpDay6Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9468FDC-B359-4085-B30B-5613739EDF00}|CsharpDay6\\CsharpDay6.csproj|d:\\depi\\c#\\c# tasks\\c#\\csharpday6solution\\csharpday6\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9468FDC-B359-4085-B30B-5613739EDF00}|CsharpDay6\\CsharpDay6.csproj|solutionrelative:csharpday6\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9468FDC-B359-4085-B30B-5613739EDF00}|CsharpDay6\\CsharpDay6.csproj|d:\\depi\\c#\\c# tasks\\c#\\csharpday6solution\\csharpday6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9468FDC-B359-4085-B30B-5613739EDF00}|CsharpDay6\\CsharpDay6.csproj|solutionrelative:csharpday6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9468FDC-B359-4085-B30B-5613739EDF00}|CsharpDay6\\CsharpDay6.csproj|d:\\depi\\c#\\c# tasks\\c#\\csharpday6solution\\csharpday6\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9468FDC-B359-4085-B30B-5613739EDF00}|CsharpDay6\\CsharpDay6.csproj|solutionrelative:csharpday6\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Point.cs",
+              "DocumentMoniker": "D:\\DEPI\\C#\\C# tasks\\C#\\CsharpDay6Solution\\CsharpDay6\\Point.cs",
+              "RelativeDocumentMoniker": "CsharpDay6\\Point.cs",
+              "ToolTip": "D:\\DEPI\\C#\\C# tasks\\C#\\CsharpDay6Solution\\CsharpDay6\\Point.cs",
+              "RelativeToolTip": "CsharpDay6\\Point.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T13:11:23.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\DEPI\\C#\\C# tasks\\C#\\CsharpDay6Solution\\CsharpDay6\\Employee.cs",
+              "RelativeDocumentMoniker": "CsharpDay6\\Employee.cs",
+              "ToolTip": "D:\\DEPI\\C#\\C# tasks\\C#\\CsharpDay6Solution\\CsharpDay6\\Employee.cs",
+              "RelativeToolTip": "CsharpDay6\\Employee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T12:56:47.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DEPI\\C#\\C# tasks\\C#\\CsharpDay6Solution\\CsharpDay6\\Program.cs",
+              "RelativeDocumentMoniker": "CsharpDay6\\Program.cs",
+              "ToolTip": "D:\\DEPI\\C#\\C# tasks\\C#\\CsharpDay6Solution\\CsharpDay6\\Program.cs",
+              "RelativeToolTip": "CsharpDay6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T12:19:13.077Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
