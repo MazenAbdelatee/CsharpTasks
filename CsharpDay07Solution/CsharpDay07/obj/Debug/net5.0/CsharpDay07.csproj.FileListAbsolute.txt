@@ -1,0 +1,16 @@
+D:\DEPI\C#\C# tasks\C#\CsharpDay07Solution\CsharpDay07\bin\Debug\net5.0\CsharpDay07.exe
+D:\DEPI\C#\C# tasks\C#\CsharpDay07Solution\CsharpDay07\bin\Debug\net5.0\CsharpDay07.deps.json
+D:\DEPI\C#\C# tasks\C#\CsharpDay07Solution\CsharpDay07\bin\Debug\net5.0\CsharpDay07.runtimeconfig.json
+D:\DEPI\C#\C# tasks\C#\CsharpDay07Solution\CsharpDay07\bin\Debug\net5.0\CsharpDay07.runtimeconfig.dev.json
+D:\DEPI\C#\C# tasks\C#\CsharpDay07Solution\CsharpDay07\bin\Debug\net5.0\CsharpDay07.dll
+D:\DEPI\C#\C# tasks\C#\CsharpDay07Solution\CsharpDay07\bin\Debug\net5.0\CsharpDay07.pdb
+D:\DEPI\C#\C# tasks\C#\CsharpDay07Solution\CsharpDay07\obj\Debug\net5.0\CsharpDay07.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\C#\C# tasks\C#\CsharpDay07Solution\CsharpDay07\obj\Debug\net5.0\CsharpDay07.AssemblyInfoInputs.cache
+D:\DEPI\C#\C# tasks\C#\CsharpDay07Solution\CsharpDay07\obj\Debug\net5.0\CsharpDay07.AssemblyInfo.cs
+D:\DEPI\C#\C# tasks\C#\CsharpDay07Solution\CsharpDay07\obj\Debug\net5.0\CsharpDay07.csproj.CoreCompileInputs.cache
+D:\DEPI\C#\C# tasks\C#\CsharpDay07Solution\CsharpDay07\obj\Debug\net5.0\CsharpDay07.sourcelink.json
+D:\DEPI\C#\C# tasks\C#\CsharpDay07Solution\CsharpDay07\obj\Debug\net5.0\CsharpDay07.dll
+D:\DEPI\C#\C# tasks\C#\CsharpDay07Solution\CsharpDay07\obj\Debug\net5.0\refint\CsharpDay07.dll
+D:\DEPI\C#\C# tasks\C#\CsharpDay07Solution\CsharpDay07\obj\Debug\net5.0\CsharpDay07.pdb
+D:\DEPI\C#\C# tasks\C#\CsharpDay07Solution\CsharpDay07\obj\Debug\net5.0\CsharpDay07.genruntimeconfig.cache
+D:\DEPI\C#\C# tasks\C#\CsharpDay07Solution\CsharpDay07\obj\Debug\net5.0\ref\CsharpDay07.dll
