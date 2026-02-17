@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DEPI\\C#\\C# tasks\\C#\\CsharpDay8Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89931A35-6E76-46FB-8D31-8BDC4A88C5B8}|CsharpDay8\\CsharpDay8.csproj|d:\\depi\\c#\\c# tasks\\c#\\csharpday8solution\\csharpday8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89931A35-6E76-46FB-8D31-8BDC4A88C5B8}|CsharpDay8\\CsharpDay8.csproj|solutionrelative:csharpday8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89931A35-6E76-46FB-8D31-8BDC4A88C5B8}|CsharpDay8\\CsharpDay8.csproj|d:\\depi\\c#\\c# tasks\\c#\\csharpday8solution\\csharpday8\\parttwo\\geometricshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89931A35-6E76-46FB-8D31-8BDC4A88C5B8}|CsharpDay8\\CsharpDay8.csproj|solutionrelative:csharpday8\\parttwo\\geometricshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89931A35-6E76-46FB-8D31-8BDC4A88C5B8}|CsharpDay8\\CsharpDay8.csproj|d:\\depi\\c#\\c# tasks\\c#\\csharpday8solution\\csharpday8\\parttwo\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89931A35-6E76-46FB-8D31-8BDC4A88C5B8}|CsharpDay8\\CsharpDay8.csproj|solutionrelative:csharpday8\\parttwo\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89931A35-6E76-46FB-8D31-8BDC4A88C5B8}|CsharpDay8\\CsharpDay8.csproj|d:\\depi\\c#\\c# tasks\\c#\\csharpday8solution\\csharpday8\\parttwo\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89931A35-6E76-46FB-8D31-8BDC4A88C5B8}|CsharpDay8\\CsharpDay8.csproj|solutionrelative:csharpday8\\parttwo\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "D:\\DEPI\\C#\\C# tasks\\C#\\CsharpDay8Solution\\CsharpDay8\\PartTwo\\Rectangle.cs",
+              "RelativeDocumentMoniker": "CsharpDay8\\PartTwo\\Rectangle.cs",
+              "ToolTip": "D:\\DEPI\\C#\\C# tasks\\C#\\CsharpDay8Solution\\CsharpDay8\\PartTwo\\Rectangle.cs",
+              "RelativeToolTip": "CsharpDay8\\PartTwo\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T09:31:46.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "D:\\DEPI\\C#\\C# tasks\\C#\\CsharpDay8Solution\\CsharpDay8\\PartTwo\\Triangle.cs",
+              "RelativeDocumentMoniker": "CsharpDay8\\PartTwo\\Triangle.cs",
+              "ToolTip": "D:\\DEPI\\C#\\C# tasks\\C#\\CsharpDay8Solution\\CsharpDay8\\PartTwo\\Triangle.cs",
+              "RelativeToolTip": "CsharpDay8\\PartTwo\\Triangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T09:29:00.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GeometricShape.cs",
+              "DocumentMoniker": "D:\\DEPI\\C#\\C# tasks\\C#\\CsharpDay8Solution\\CsharpDay8\\PartTwo\\GeometricShape.cs",
+              "RelativeDocumentMoniker": "CsharpDay8\\PartTwo\\GeometricShape.cs",
+              "ToolTip": "D:\\DEPI\\C#\\C# tasks\\C#\\CsharpDay8Solution\\CsharpDay8\\PartTwo\\GeometricShape.cs",
+              "RelativeToolTip": "CsharpDay8\\PartTwo\\GeometricShape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T09:26:08.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DEPI\\C#\\C# tasks\\C#\\CsharpDay8Solution\\CsharpDay8\\Program.cs",
+              "RelativeDocumentMoniker": "CsharpDay8\\Program.cs",
+              "ToolTip": "D:\\DEPI\\C#\\C# tasks\\C#\\CsharpDay8Solution\\CsharpDay8\\Program.cs",
+              "RelativeToolTip": "CsharpDay8\\Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T07:29:04.86Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
