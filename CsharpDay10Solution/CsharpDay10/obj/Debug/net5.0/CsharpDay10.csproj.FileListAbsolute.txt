@@ -1,0 +1,16 @@
+D:\DEPI\C#\C# tasks\C#\CsharpDay10Solution\CsharpDay10\bin\Debug\net5.0\CsharpDay10.exe
+D:\DEPI\C#\C# tasks\C#\CsharpDay10Solution\CsharpDay10\bin\Debug\net5.0\CsharpDay10.deps.json
+D:\DEPI\C#\C# tasks\C#\CsharpDay10Solution\CsharpDay10\bin\Debug\net5.0\CsharpDay10.runtimeconfig.json
+D:\DEPI\C#\C# tasks\C#\CsharpDay10Solution\CsharpDay10\bin\Debug\net5.0\CsharpDay10.runtimeconfig.dev.json
+D:\DEPI\C#\C# tasks\C#\CsharpDay10Solution\CsharpDay10\bin\Debug\net5.0\CsharpDay10.dll
+D:\DEPI\C#\C# tasks\C#\CsharpDay10Solution\CsharpDay10\bin\Debug\net5.0\CsharpDay10.pdb
+D:\DEPI\C#\C# tasks\C#\CsharpDay10Solution\CsharpDay10\obj\Debug\net5.0\CsharpDay10.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\C#\C# tasks\C#\CsharpDay10Solution\CsharpDay10\obj\Debug\net5.0\CsharpDay10.AssemblyInfoInputs.cache
+D:\DEPI\C#\C# tasks\C#\CsharpDay10Solution\CsharpDay10\obj\Debug\net5.0\CsharpDay10.AssemblyInfo.cs
+D:\DEPI\C#\C# tasks\C#\CsharpDay10Solution\CsharpDay10\obj\Debug\net5.0\CsharpDay10.csproj.CoreCompileInputs.cache
+D:\DEPI\C#\C# tasks\C#\CsharpDay10Solution\CsharpDay10\obj\Debug\net5.0\CsharpDay10.sourcelink.json
+D:\DEPI\C#\C# tasks\C#\CsharpDay10Solution\CsharpDay10\obj\Debug\net5.0\CsharpDay10.dll
+D:\DEPI\C#\C# tasks\C#\CsharpDay10Solution\CsharpDay10\obj\Debug\net5.0\refint\CsharpDay10.dll
+D:\DEPI\C#\C# tasks\C#\CsharpDay10Solution\CsharpDay10\obj\Debug\net5.0\CsharpDay10.pdb
+D:\DEPI\C#\C# tasks\C#\CsharpDay10Solution\CsharpDay10\obj\Debug\net5.0\CsharpDay10.genruntimeconfig.cache
+D:\DEPI\C#\C# tasks\C#\CsharpDay10Solution\CsharpDay10\obj\Debug\net5.0\ref\CsharpDay10.dll
